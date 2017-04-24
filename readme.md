@@ -1,6 +1,6 @@
 # ThreeJS Experiment
 
-## "Wheel-O-Fritzi
+## "Wheel-O-Fritzi"
 
 ## Build Steps
 1. Clone
