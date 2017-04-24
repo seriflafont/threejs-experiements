@@ -1,8 +1,8 @@
-#ThreeJS Experiement
+# ThreeJS Experiment
 
-##"Wheel-O-Fritzi
+## "Wheel-O-Fritzi
 
-##Build Steps
+## Build Steps
 1. Clone
 2. NPM install
 3. grunt
